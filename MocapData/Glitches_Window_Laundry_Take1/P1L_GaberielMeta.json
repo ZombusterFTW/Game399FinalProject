@@ -1,0 +1,20 @@
+{
+  "source": "HE",
+  "hash": "peLjNyqJLgi9ysaVH70S9nSyuSuy6&B0C1299&0&0000",
+  "takeName": "Glitches_Window_Laundry_Take1",
+  "startDate": "2024-04-05",
+  "startTime": "01-10-58-686-pm",
+  "performerName": "Gaberiel",
+  "performerNumber": 1,
+  "profileName": "Gaberiel Left",
+  "calibrationId": 2,
+  "side": "Left",
+  "gloveType": "RevG",
+  "gloveSN": "A3LA30012",
+  "gloveFW": "2.1.16",
+  "dongleFW": "2.1.16",
+  "fileName": "P1L_Gaberiel.csv",
+  "outputType": "smart",
+  "masterTimeCodeSource": "System",
+  "fpsRate": 60
+}

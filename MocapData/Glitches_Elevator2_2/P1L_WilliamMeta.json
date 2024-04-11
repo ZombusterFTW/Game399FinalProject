@@ -1,0 +1,20 @@
+{
+  "source": "HE",
+  "hash": "jVstfDDKlVZ3gwYrq11s9PM8frVE6&6431FDE&0&0000",
+  "takeName": "Glitches_Elevator2_2",
+  "startDate": "2024-04-05",
+  "startTime": "00-39-18-206-pm",
+  "performerName": "William",
+  "performerNumber": 3,
+  "profileName": "William Left",
+  "calibrationId": 6,
+  "side": "Left",
+  "gloveType": "RevG",
+  "gloveSN": "A2LC30079",
+  "gloveFW": "2.1.15",
+  "dongleFW": "2.1.16",
+  "fileName": "P1L_William.csv",
+  "outputType": "smart",
+  "masterTimeCodeSource": "System",
+  "fpsRate": 60
+}

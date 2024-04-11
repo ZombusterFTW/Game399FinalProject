@@ -1,0 +1,20 @@
+{
+  "source": "HE",
+  "hash": "YiU1Go4Y82NXEqKTMqp1aYZL4H3v6&B0C1299&0&0000",
+  "takeName": "Glitches_Reporter_ENDTake2",
+  "startDate": "2024-04-05",
+  "startTime": "00-16-32-078-pm",
+  "performerName": "Gaberiel",
+  "performerNumber": 1,
+  "profileName": "Gaberiel Left",
+  "calibrationId": 2,
+  "side": "Left",
+  "gloveType": "RevG",
+  "gloveSN": "A3LA30012",
+  "gloveFW": "2.1.16",
+  "dongleFW": "2.1.16",
+  "fileName": "P1L_Gaberiel.csv",
+  "outputType": "smart",
+  "masterTimeCodeSource": "System",
+  "fpsRate": 60
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "performer_name": "Gaberiel",
+  "profile_name": "Gaberiel Left",
+  "glove_revision": "RevG",
+  "calibration": [
+    {
+      "id": 0,
+      "descr": "",
+      "created": "Fri Apr 05 2024 12:25:39 GMT-0400 (Eastern Daylight Time)",
+      "lastmodified": "Fri Apr 05 2024 12:25:39 GMT-0400 (Eastern Daylight Time)",
+      "handedness": "Left",
+      "poses": {},
+      "sensordata": {}
+    }
+  ],
+  "express_calibration": {
+    "is_active": false
+  }
+}
