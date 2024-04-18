@@ -1,8 +1,6 @@
-2024/04/12-20:20:07.346 4ce8 Reusing MANIFEST D:/Game399/Game399FinalProject/GlitchesInRealLife/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/12-20:20:07.347 4ce8 Recovering log #3
-2024/04/12-20:20:07.364 4ce8 Level-0 table #3: started
-2024/04/12-20:20:07.408 4ce8 Level-0 table #3: 476 bytes OK
-2024/04/12-20:20:07.409 4ce8 Recovering log #4
-2024/04/12-20:20:07.417 4ce8 Reusing old log D:/Game399/Game399FinalProject/GlitchesInRealLife/Saved/webcache_4430\Local Storage\leveldb/000004.log 
-2024/04/12-20:20:07.422 4ce8 Delete type=0 #3
-2024/04/12-20:20:07.422 4ce8 Delete type=2 #5
+2024/04/18-02:04:26.721 10a08 Reusing MANIFEST D:/Game399/Game399FinalProject/GlitchesInRealLife/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/18-02:04:26.722 10a08 Recovering log #4
+2024/04/18-02:04:26.726 10a08 Reusing old log D:/Game399/Game399FinalProject/GlitchesInRealLife/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2024/04/18-02:05:54.210 9554 Level-0 table #7: started
+2024/04/18-02:05:54.233 9554 Level-0 table #7: 16214 bytes OK
+2024/04/18-02:05:54.237 9554 Delete type=0 #4
