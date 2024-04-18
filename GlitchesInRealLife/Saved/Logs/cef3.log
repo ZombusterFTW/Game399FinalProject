@@ -1,1 +1,57 @@
-[0412/170430.601:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0412/202010.459:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202010.460:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202010.535:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202010.535:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202011.343:WARNING:backend_impl.cc(1641)] Messed up entry found.
+[0412/202011.343:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0412/202011.489:WARNING:backend_impl.cc(1641)] Messed up entry found.
+[0412/202011.489:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0412/202012.059:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202012.059:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202012.624:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202012.624:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202012.895:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202012.895:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202012.906:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202012.906:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202012.934:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202012.934:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202013.892:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202013.893:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202015.364:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202015.364:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202016.129:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202016.129:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202016.545:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202016.545:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202016.651:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202016.651:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202016.699:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202016.699:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202016.707:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202016.707:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202016.871:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202016.871:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202016.973:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202016.973:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202016.985:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202016.985:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202017.251:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202017.251:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202017.272:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202017.272:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202017.403:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202017.403:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202017.470:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202017.470:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202017.521:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202017.521:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202017.686:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202017.686:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202017.731:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202017.731:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202018.013:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202018.013:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202018.032:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0412/202018.032:ERROR:entry_impl.cc(998)] Failed to save user data
+[0412/202205.548:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
